@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jmeterTestPlan version="1.2" properties="3.1" jmeter="3.1 r1770033">
+  <hashTree>
+    <ResponseAssertion guiclass="AssertionGui" testclass="ResponseAssertion" testname="Arrangement name" enabled="false">
+      <collectionProp name="Asserion.test_strings">
+        <stringProp name="1717763072">Delightful Love Gift Basket</stringProp>
+      </collectionProp>
+      <stringProp name="TestPlan.comments">Confetti Fruit Cupcake</stringProp>
+      <stringProp name="Assertion.test_field">Assertion.response_data</stringProp>
+      <boolProp name="Assertion.assume_success">false</boolProp>
+      <intProp name="Assertion.test_type">2</intProp>
+    </ResponseAssertion>
+    <hashTree/>
+  </hashTree>
+</jmeterTestPlan>
